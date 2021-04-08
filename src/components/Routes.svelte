@@ -1,5 +1,5 @@
 <script>
-  export let d;
+  export let data;
 </script>
 
-<p>{JSON.stringify(d)}</p>
+<p>{JSON.stringify(data)}</p>
